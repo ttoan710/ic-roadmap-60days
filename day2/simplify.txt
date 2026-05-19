@@ -1,0 +1,22 @@
+Task 1 — Simplify
+
+Rút gọn:
+
+1) A + A·B = A . ( 1 + B) = A·1= A
+2) A·(A + B) = A·A + A·B = A + A·B= A·(1+B)= A·1= A
+3) (A + B)(A + C) = A·A + A·C + A·B + B.C = A + B.C
+4) A·B + A·B' = A.(B + B')= A·1 = A
+
+
+Task 2 — nâng cao nhẹ
+
+Rút gọn:
+
+Y = (A + B)(A + B')
+
+👉 Hint:
+
+dùng distributive + complement
+= A·A + A·B' + A.B + B.B' = A + A·B' + A·B + 0
+= A + A·B' = A
+Cách simple hơn = A·(B + B') = A . 1 = A
